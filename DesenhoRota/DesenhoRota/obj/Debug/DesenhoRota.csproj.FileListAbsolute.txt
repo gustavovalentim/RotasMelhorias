@@ -1,0 +1,10 @@
+C:\Users\Gustavo\Source\Repos\DesenhoRota\DesenhoRota\obj\Debug\DesenhoRota.csprojAssemblyReference.cache
+C:\Users\Gustavo\Source\Repos\DesenhoRota\DesenhoRota\obj\Debug\DesenhoRota.Form1.resources
+C:\Users\Gustavo\Source\Repos\DesenhoRota\DesenhoRota\obj\Debug\DesenhoRota.Properties.Resources.resources
+C:\Users\Gustavo\Source\Repos\DesenhoRota\DesenhoRota\obj\Debug\DesenhoRota.csproj.GenerateResource.cache
+C:\Users\Gustavo\Source\Repos\DesenhoRota\DesenhoRota\obj\Debug\DesenhoRota.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Source\Repos\DesenhoRota\DesenhoRota\bin\Debug\DesenhoRota.exe.config
+C:\Users\Gustavo\Source\Repos\DesenhoRota\DesenhoRota\bin\Debug\DesenhoRota.exe
+C:\Users\Gustavo\Source\Repos\DesenhoRota\DesenhoRota\bin\Debug\DesenhoRota.pdb
+C:\Users\Gustavo\Source\Repos\DesenhoRota\DesenhoRota\obj\Debug\DesenhoRota.exe
+C:\Users\Gustavo\Source\Repos\DesenhoRota\DesenhoRota\obj\Debug\DesenhoRota.pdb
